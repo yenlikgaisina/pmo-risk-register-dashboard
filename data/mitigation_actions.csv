@@ -1,0 +1,132 @@
+action_id,risk_id,report_month,action,owner,due_date,status
+A0001,R001,2026-02,Implement additional site control / toolbox talk,Supply Chain Lead,2026-03-30,Complete
+A0002,R001,2026-02,Increase inspection and audit frequency,Supply Chain Lead,2026-04-04,Complete
+A0003,R001,2026-03,Escalate to supplier/contractor governance board,Supply Chain Lead,2026-04-21,Complete
+A0004,R001,2026-03,Escalate to supplier/contractor governance board,Supply Chain Lead,2026-04-11,Open
+A0005,R001,2026-05,Commission independent technical review,Supply Chain Lead,2026-07-08,Complete
+A0006,R002,2026-01,Raise formal query with regulator/consultee,Supply Chain Lead,2026-03-06,Complete
+A0007,R002,2026-01,Escalate to supplier/contractor governance board,Supply Chain Lead,2026-03-08,Open
+A0008,R002,2026-03,Increase inspection and audit frequency,Supply Chain Lead,2026-04-13,Complete
+A0009,R002,2026-04,Agree revised delivery milestone with contingency,Supply Chain Lead,2026-05-24,Complete
+A0010,R002,2026-05,Agree revised delivery milestone with contingency,Supply Chain Lead,2026-07-11,Open
+A0011,R002,2026-05,Backfill role with contract resource,Supply Chain Lead,2026-06-22,Complete
+A0012,R003,2026-04,Backfill role with contract resource,Supply Chain Lead,2026-05-23,Open
+A0013,R004,2026-05,Escalate to supplier/contractor governance board,Supply Chain Lead,2026-07-14,Open
+A0014,R004,2026-06,Implement additional site control / toolbox talk,Supply Chain Lead,2026-08-06,Overdue
+A0015,R004,2026-06,Implement additional site control / toolbox talk,Supply Chain Lead,2026-07-17,Open
+A0016,R005,2026-01,Escalate to supplier/contractor governance board,Procurement Manager,2026-02-22,Complete
+A0017,R005,2026-01,Bring forward long-lead procurement decision,Procurement Manager,2026-02-12,Complete
+A0018,R005,2026-02,Update risk-adjusted cost and schedule baseline,Procurement Manager,2026-03-20,Complete
+A0019,R006,2026-01,Bring forward long-lead procurement decision,Supply Chain Lead,2026-02-11,Complete
+A0020,R006,2026-02,Update risk-adjusted cost and schedule baseline,Supply Chain Lead,2026-04-08,Complete
+A0021,R006,2026-03,Secure alternative source or dual-sourcing option,Supply Chain Lead,2026-05-05,Open
+A0022,R006,2026-04,Agree revised delivery milestone with contingency,Supply Chain Lead,2026-06-11,Complete
+A0023,R006,2026-04,Agree revised delivery milestone with contingency,Supply Chain Lead,2026-05-15,Complete
+A0024,R006,2026-05,Update risk-adjusted cost and schedule baseline,Supply Chain Lead,2026-07-15,Complete
+A0025,R007,2026-02,Backfill role with contract resource,Commercial Manager,2026-03-23,Complete
+A0026,R007,2026-03,Commission independent technical review,Commercial Manager,2026-04-14,Complete
+A0027,R007,2026-05,Escalate to supplier/contractor governance board,Commercial Manager,2026-06-09,Complete
+A0028,R008,2026-03,Commission independent technical review,Commercial Manager,2026-05-03,Open
+A0029,R008,2026-03,Commission independent technical review,Commercial Manager,2026-04-22,Open
+A0030,R008,2026-05,Raise formal query with regulator/consultee,Commercial Manager,2026-06-28,Open
+A0031,R008,2026-05,Agree revised delivery milestone with contingency,Commercial Manager,2026-06-22,Complete
+A0032,R008,2026-06,Backfill role with contract resource,Commercial Manager,2026-08-06,Open
+A0033,R009,2026-01,Agree revised delivery milestone with contingency,Cost Manager,2026-03-04,Complete
+A0034,R009,2026-05,Raise formal query with regulator/consultee,Cost Manager,2026-06-09,Complete
+A0035,R010,2026-02,Implement additional site control / toolbox talk,Cost Manager,2026-03-07,Complete
+A0036,R010,2026-04,Update risk-adjusted cost and schedule baseline,Cost Manager,2026-05-11,Open
+A0037,R011,2026-01,Increase inspection and audit frequency,Cost Manager,2026-02-25,Complete
+A0038,R011,2026-01,Raise formal query with regulator/consultee,Cost Manager,2026-03-05,Complete
+A0039,R011,2026-03,Raise formal query with regulator/consultee,Cost Manager,2026-04-26,Complete
+A0040,R011,2026-04,Commission independent technical review,Cost Manager,2026-05-20,Complete
+A0041,R011,2026-05,Increase inspection and audit frequency,Cost Manager,2026-06-28,Complete
+A0042,R011,2026-05,Increase inspection and audit frequency,Cost Manager,2026-06-26,Complete
+A0043,R011,2026-06,Bring forward long-lead procurement decision,Cost Manager,2026-07-11,Overdue
+A0044,R012,2026-01,Agree revised delivery milestone with contingency,Commercial Manager,2026-02-07,Open
+A0045,R012,2026-01,Implement additional site control / toolbox talk,Commercial Manager,2026-03-06,Complete
+A0046,R012,2026-03,Bring forward long-lead procurement decision,Commercial Manager,2026-05-10,Open
+A0047,R012,2026-05,Backfill role with contract resource,Commercial Manager,2026-07-05,Open
+A0048,R012,2026-05,Increase inspection and audit frequency,Commercial Manager,2026-07-05,Complete
+A0049,R013,2026-03,Update risk-adjusted cost and schedule baseline,Design Manager,2026-04-25,Complete
+A0050,R013,2026-04,Increase inspection and audit frequency,Design Manager,2026-05-31,Complete
+A0051,R013,2026-05,Increase inspection and audit frequency,Design Manager,2026-07-06,Complete
+A0052,R013,2026-05,Bring forward long-lead procurement decision,Design Manager,2026-07-03,Complete
+A0053,R014,2026-01,Raise formal query with regulator/consultee,Principal Engineer,2026-03-01,Complete
+A0054,R014,2026-04,Increase inspection and audit frequency,Principal Engineer,2026-06-10,Open
+A0055,R014,2026-04,Raise formal query with regulator/consultee,Principal Engineer,2026-06-07,Complete
+A0056,R014,2026-05,Raise formal query with regulator/consultee,Principal Engineer,2026-06-28,Complete
+A0057,R015,2026-03,Escalate to supplier/contractor governance board,Principal Engineer,2026-05-14,Complete
+A0058,R015,2026-04,Commission independent technical review,Principal Engineer,2026-05-15,Open
+A0059,R015,2026-05,Update risk-adjusted cost and schedule baseline,Principal Engineer,2026-06-27,Complete
+A0060,R015,2026-06,Raise formal query with regulator/consultee,Principal Engineer,2026-07-24,Complete
+A0061,R016,2026-01,Escalate to supplier/contractor governance board,Design Manager,2026-02-21,Complete
+A0062,R016,2026-02,Backfill role with contract resource,Design Manager,2026-03-16,Complete
+A0063,R017,2026-03,Commission independent technical review,Design Manager,2026-04-23,Open
+A0064,R017,2026-03,Agree revised delivery milestone with contingency,Design Manager,2026-05-15,Complete
+A0065,R017,2026-05,Secure alternative source or dual-sourcing option,Design Manager,2026-06-13,Complete
+A0066,R018,2026-03,Bring forward long-lead procurement decision,Programme Scheduler,2026-05-15,Open
+A0067,R018,2026-04,Update risk-adjusted cost and schedule baseline,Programme Scheduler,2026-05-30,Complete
+A0068,R018,2026-04,Backfill role with contract resource,Programme Scheduler,2026-05-07,Open
+A0069,R019,2026-02,Increase inspection and audit frequency,Programme Scheduler,2026-04-13,Complete
+A0070,R019,2026-02,Backfill role with contract resource,Programme Scheduler,2026-03-12,Complete
+A0071,R019,2026-04,Increase inspection and audit frequency,Programme Scheduler,2026-05-27,Complete
+A0072,R019,2026-05,Implement additional site control / toolbox talk,Programme Scheduler,2026-06-24,Complete
+A0073,R019,2026-05,Raise formal query with regulator/consultee,Programme Scheduler,2026-06-19,Complete
+A0074,R020,2026-02,Raise formal query with regulator/consultee,Project Controls Manager,2026-03-12,Complete
+A0075,R020,2026-04,Implement additional site control / toolbox talk,Project Controls Manager,2026-05-30,Complete
+A0076,R020,2026-04,Implement additional site control / toolbox talk,Project Controls Manager,2026-05-29,Complete
+A0077,R020,2026-05,Secure alternative source or dual-sourcing option,Project Controls Manager,2026-07-06,Complete
+A0078,R020,2026-05,Increase inspection and audit frequency,Project Controls Manager,2026-06-21,Complete
+A0079,R020,2026-06,Commission independent technical review,Project Controls Manager,2026-08-10,Complete
+A0080,R020,2026-06,Backfill role with contract resource,Project Controls Manager,2026-07-19,Open
+A0081,R021,2026-01,Update risk-adjusted cost and schedule baseline,Project Controls Manager,2026-02-19,Complete
+A0082,R021,2026-02,Escalate to supplier/contractor governance board,Project Controls Manager,2026-03-15,Complete
+A0083,R021,2026-02,Commission independent technical review,Project Controls Manager,2026-04-11,Complete
+A0084,R021,2026-03,Backfill role with contract resource,Project Controls Manager,2026-05-13,Complete
+A0085,R021,2026-04,Backfill role with contract resource,Project Controls Manager,2026-05-23,Open
+A0086,R021,2026-05,Escalate to supplier/contractor governance board,Project Controls Manager,2026-07-13,Complete
+A0087,R022,2026-04,Bring forward long-lead procurement decision,Project Controls Manager,2026-06-14,Complete
+A0088,R022,2026-05,Raise formal query with regulator/consultee,Project Controls Manager,2026-06-26,Open
+A0089,R023,2026-02,Implement additional site control / toolbox talk,Regulatory & Consents Manager,2026-03-17,Complete
+A0090,R023,2026-03,Escalate to supplier/contractor governance board,Regulatory & Consents Manager,2026-05-15,Complete
+A0091,R023,2026-05,Bring forward long-lead procurement decision,Regulatory & Consents Manager,2026-06-23,Open
+A0092,R023,2026-06,Secure alternative source or dual-sourcing option,Regulatory & Consents Manager,2026-07-21,Overdue
+A0093,R023,2026-06,Commission independent technical review,Regulatory & Consents Manager,2026-07-16,Open
+A0094,R024,2026-04,Secure alternative source or dual-sourcing option,Regulatory & Consents Manager,2026-05-26,Complete
+A0095,R024,2026-05,Escalate to supplier/contractor governance board,Regulatory & Consents Manager,2026-07-05,Complete
+A0096,R025,2026-02,Escalate to supplier/contractor governance board,Regulatory & Consents Manager,2026-04-12,Complete
+A0097,R025,2026-05,Backfill role with contract resource,Regulatory & Consents Manager,2026-06-18,Complete
+A0098,R026,2026-06,Update risk-adjusted cost and schedule baseline,Regulatory & Consents Manager,2026-07-13,Complete
+A0099,R027,2026-02,Raise formal query with regulator/consultee,Regulatory & Consents Manager,2026-03-23,Complete
+A0100,R027,2026-04,Backfill role with contract resource,Regulatory & Consents Manager,2026-06-09,Complete
+A0101,R027,2026-06,Backfill role with contract resource,Regulatory & Consents Manager,2026-08-04,Complete
+A0102,R028,2026-03,Agree revised delivery milestone with contingency,PMO Lead,2026-04-12,Complete
+A0103,R029,2026-01,Bring forward long-lead procurement decision,PMO Lead,2026-03-03,Complete
+A0104,R029,2026-06,Backfill role with contract resource,PMO Lead,2026-08-13,Complete
+A0105,R029,2026-06,Backfill role with contract resource,PMO Lead,2026-07-16,Open
+A0106,R030,2026-05,Increase inspection and audit frequency,PMO Lead,2026-06-19,Open
+A0107,R030,2026-06,Backfill role with contract resource,PMO Lead,2026-07-09,Open
+A0108,R031,2026-02,Escalate to supplier/contractor governance board,Resourcing Manager,2026-03-16,Complete
+A0109,R031,2026-02,Bring forward long-lead procurement decision,Resourcing Manager,2026-03-15,Complete
+A0110,R031,2026-03,Backfill role with contract resource,Resourcing Manager,2026-05-05,Complete
+A0111,R031,2026-04,Commission independent technical review,Resourcing Manager,2026-06-02,Open
+A0112,R031,2026-05,Raise formal query with regulator/consultee,Resourcing Manager,2026-06-28,Complete
+A0113,R032,2026-01,Escalate to supplier/contractor governance board,Resourcing Manager,2026-03-10,Open
+A0114,R032,2026-02,Agree revised delivery milestone with contingency,Resourcing Manager,2026-03-25,Open
+A0115,R032,2026-02,Agree revised delivery milestone with contingency,Resourcing Manager,2026-04-03,Open
+A0116,R032,2026-04,Raise formal query with regulator/consultee,Resourcing Manager,2026-05-25,Complete
+A0117,R032,2026-05,Agree revised delivery milestone with contingency,Resourcing Manager,2026-06-18,Complete
+A0118,R032,2026-05,Increase inspection and audit frequency,Resourcing Manager,2026-07-01,Complete
+A0119,R032,2026-06,Escalate to supplier/contractor governance board,Resourcing Manager,2026-07-23,Overdue
+A0120,R033,2026-03,Raise formal query with regulator/consultee,HSE Manager,2026-05-14,Complete
+A0121,R033,2026-04,Backfill role with contract resource,HSE Manager,2026-05-19,Open
+A0122,R033,2026-05,Secure alternative source or dual-sourcing option,HSE Manager,2026-07-13,Complete
+A0123,R033,2026-06,Escalate to supplier/contractor governance board,HSE Manager,2026-08-12,Complete
+A0124,R035,2026-01,Secure alternative source or dual-sourcing option,HSE Manager,2026-02-15,Complete
+A0125,R035,2026-02,Update risk-adjusted cost and schedule baseline,HSE Manager,2026-03-15,Open
+A0126,R036,2026-01,Update risk-adjusted cost and schedule baseline,HSE Manager,2026-02-25,Open
+A0127,R036,2026-05,Agree revised delivery milestone with contingency,HSE Manager,2026-06-07,Complete
+A0128,R037,2026-04,Implement additional site control / toolbox talk,HSE Manager,2026-06-06,Complete
+A0129,R037,2026-05,Backfill role with contract resource,HSE Manager,2026-06-21,Complete
+A0130,R037,2026-05,Agree revised delivery milestone with contingency,HSE Manager,2026-06-26,Complete
+A0131,R037,2026-06,Agree revised delivery milestone with contingency,HSE Manager,2026-07-26,Complete

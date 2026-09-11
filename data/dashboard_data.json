@@ -1,0 +1,881 @@
+{
+  "kpis": {
+    "total_risks": 37,
+    "open_risks": 34,
+    "closed_risks": 3,
+    "high_residual_risks": 7,
+    "overdue_actions": 4,
+    "emerging_risks": 8,
+    "avg_residual_score": 9.76,
+    "latest_month": "2026-06"
+  },
+  "heatmap": {
+    "inherent": [
+      [
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      [
+        0,
+        1,
+        2,
+        0,
+        1
+      ],
+      [
+        0,
+        3,
+        2,
+        4,
+        1
+      ],
+      [
+        1,
+        1,
+        4,
+        6,
+        2
+      ],
+      [
+        0,
+        0,
+        2,
+        1,
+        2
+      ]
+    ],
+    "residual": [
+      [
+        2,
+        3,
+        0,
+        1,
+        0
+      ],
+      [
+        1,
+        1,
+        3,
+        2,
+        1
+      ],
+      [
+        1,
+        2,
+        2,
+        4,
+        0
+      ],
+      [
+        0,
+        1,
+        2,
+        2,
+        0
+      ],
+      [
+        0,
+        1,
+        0,
+        2,
+        3
+      ]
+    ]
+  },
+  "category_summary": [
+    {
+      "category": "Engineering & Design Change",
+      "count": 4,
+      "avg_residual": 14.5
+    },
+    {
+      "category": "Health & Safety",
+      "count": 4,
+      "avg_residual": 12.25
+    },
+    {
+      "category": "Supplier & Delivery",
+      "count": 5,
+      "avg_residual": 10.0
+    },
+    {
+      "category": "Regulatory & Consents",
+      "count": 5,
+      "avg_residual": 9.6
+    },
+    {
+      "category": "Cost & Commercial",
+      "count": 6,
+      "avg_residual": 8.666666666666666
+    },
+    {
+      "category": "Resourcing & Capability",
+      "count": 5,
+      "avg_residual": 8.0
+    },
+    {
+      "category": "Schedule & Programme",
+      "count": 5,
+      "avg_residual": 7.0
+    }
+  ],
+  "ageing": {
+    "labels": [
+      "0-30",
+      "31-60",
+      "61-90",
+      "91-120",
+      "121-180",
+      "180+"
+    ],
+    "counts": [
+      0,
+      3,
+      2,
+      2,
+      7,
+      20
+    ]
+  },
+  "trend": [
+    {
+      "report_month": "2026-01",
+      "open_risks": 26,
+      "total_residual": 335,
+      "avg_residual": 12.884615384615385
+    },
+    {
+      "report_month": "2026-02",
+      "open_risks": 30,
+      "total_residual": 326,
+      "avg_residual": 10.866666666666667
+    },
+    {
+      "report_month": "2026-03",
+      "open_risks": 29,
+      "total_residual": 296,
+      "avg_residual": 10.206896551724139
+    },
+    {
+      "report_month": "2026-04",
+      "open_risks": 31,
+      "total_residual": 288,
+      "avg_residual": 9.290322580645162
+    },
+    {
+      "report_month": "2026-05",
+      "open_risks": 34,
+      "total_residual": 317,
+      "avg_residual": 9.323529411764707
+    },
+    {
+      "report_month": "2026-06",
+      "open_risks": 34,
+      "total_residual": 332,
+      "avg_residual": 9.764705882352942
+    }
+  ],
+  "emerging_risks": [
+    {
+      "risk_id": "R001",
+      "title": "Key steel fabrication supplier delivery slippage",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "prev_residual_score": 6,
+      "residual_score": 12,
+      "movement": 6
+    },
+    {
+      "risk_id": "R034",
+      "title": "Confined-space entry procedure non-compliance",
+      "category": "Health & Safety",
+      "owner": "Construction Manager",
+      "prev_residual_score": 4,
+      "residual_score": 10,
+      "movement": 6
+    },
+    {
+      "risk_id": "R013",
+      "title": "Late-stage design change to foundation specification",
+      "category": "Engineering & Design Change",
+      "owner": "Design Manager",
+      "prev_residual_score": 20,
+      "residual_score": 25,
+      "movement": 5
+    },
+    {
+      "risk_id": "R004",
+      "title": "Long-lead electrical switchgear delivery risk",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "prev_residual_score": 20,
+      "residual_score": 25,
+      "movement": 5
+    },
+    {
+      "risk_id": "R003",
+      "title": "Sub-contractor mobilisation delay on site enabling works",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "prev_residual_score": 2,
+      "residual_score": 6,
+      "movement": 4
+    },
+    {
+      "risk_id": "R022",
+      "title": "Programme float erosion across multiple packages",
+      "category": "Schedule & Programme",
+      "owner": "Project Controls Manager",
+      "prev_residual_score": 9,
+      "residual_score": 12,
+      "movement": 3
+    },
+    {
+      "risk_id": "R032",
+      "title": "Staff turnover in a stakeholder-facing PMO role",
+      "category": "Resourcing & Capability",
+      "owner": "Resourcing Manager",
+      "prev_residual_score": 3,
+      "residual_score": 6,
+      "movement": 3
+    },
+    {
+      "risk_id": "R018",
+      "title": "Critical path slippage on site enabling works",
+      "category": "Schedule & Programme",
+      "owner": "Programme Scheduler",
+      "prev_residual_score": 2,
+      "residual_score": 3,
+      "movement": 1
+    }
+  ],
+  "top_risks": [
+    {
+      "risk_id": "R013",
+      "title": "Late-stage design change to foundation specification",
+      "category": "Engineering & Design Change",
+      "owner": "Design Manager",
+      "residual_probability": 5,
+      "residual_impact": 5,
+      "residual_score": 25,
+      "days_open": 108
+    },
+    {
+      "risk_id": "R004",
+      "title": "Long-lead electrical switchgear delivery risk",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "residual_probability": 5,
+      "residual_impact": 5,
+      "residual_score": 25,
+      "days_open": 44
+    },
+    {
+      "risk_id": "R036",
+      "title": "Working-at-height control gap on scaffold access",
+      "category": "Health & Safety",
+      "owner": "HSE Manager",
+      "residual_probability": 5,
+      "residual_impact": 5,
+      "residual_score": 25,
+      "days_open": 237
+    },
+    {
+      "risk_id": "R011",
+      "title": "Insurance premium increase at policy renewal",
+      "category": "Cost & Commercial",
+      "owner": "Cost Manager",
+      "residual_probability": 5,
+      "residual_impact": 4,
+      "residual_score": 20,
+      "days_open": 204
+    },
+    {
+      "risk_id": "R023",
+      "title": "Delay in planning consent determination",
+      "category": "Regulatory & Consents",
+      "owner": "Regulatory & Consents Manager",
+      "residual_probability": 5,
+      "residual_impact": 4,
+      "residual_score": 20,
+      "days_open": 232
+    },
+    {
+      "risk_id": "R031",
+      "title": "Skills gap in an emerging technology area",
+      "category": "Resourcing & Capability",
+      "owner": "Resourcing Manager",
+      "residual_probability": 4,
+      "residual_impact": 4,
+      "residual_score": 16,
+      "days_open": 150
+    },
+    {
+      "risk_id": "R017",
+      "title": "Configuration control gap between design revisions",
+      "category": "Engineering & Design Change",
+      "owner": "Design Manager",
+      "residual_probability": 4,
+      "residual_impact": 4,
+      "residual_score": 16,
+      "days_open": 136
+    },
+    {
+      "risk_id": "R001",
+      "title": "Key steel fabrication supplier delivery slippage",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "residual_probability": 4,
+      "residual_impact": 3,
+      "residual_score": 12,
+      "days_open": 290
+    },
+    {
+      "risk_id": "R022",
+      "title": "Programme float erosion across multiple packages",
+      "category": "Schedule & Programme",
+      "owner": "Project Controls Manager",
+      "residual_probability": 3,
+      "residual_impact": 4,
+      "residual_score": 12,
+      "days_open": 83
+    },
+    {
+      "risk_id": "R012",
+      "title": "Commercial dispute with tier-1 contractor over scope",
+      "category": "Cost & Commercial",
+      "owner": "Commercial Manager",
+      "residual_probability": 3,
+      "residual_impact": 4,
+      "residual_score": 12,
+      "days_open": 154
+    }
+  ],
+  "overdue_actions": [
+    {
+      "action_id": "A0014",
+      "risk_id": "R004",
+      "title": "Long-lead electrical switchgear delivery risk",
+      "category": "Supplier & Delivery",
+      "action": "Implement additional site control / toolbox talk",
+      "owner": "Supply Chain Lead",
+      "due_date": "2026-08-06"
+    },
+    {
+      "action_id": "A0043",
+      "risk_id": "R011",
+      "title": "Insurance premium increase at policy renewal",
+      "category": "Cost & Commercial",
+      "action": "Bring forward long-lead procurement decision",
+      "owner": "Cost Manager",
+      "due_date": "2026-07-11"
+    },
+    {
+      "action_id": "A0092",
+      "risk_id": "R023",
+      "title": "Delay in planning consent determination",
+      "category": "Regulatory & Consents",
+      "action": "Secure alternative source or dual-sourcing option",
+      "owner": "Regulatory & Consents Manager",
+      "due_date": "2026-07-21"
+    },
+    {
+      "action_id": "A0119",
+      "risk_id": "R032",
+      "title": "Staff turnover in a stakeholder-facing PMO role",
+      "category": "Resourcing & Capability",
+      "action": "Escalate to supplier/contractor governance board",
+      "owner": "Resourcing Manager",
+      "due_date": "2026-07-23"
+    }
+  ],
+  "risks": [
+    {
+      "risk_id": "R001",
+      "title": "Key steel fabrication supplier delivery slippage",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "date_raised": "2025-09-13",
+      "inherent_probability": 4,
+      "inherent_impact": 3,
+      "inherent_score": 12,
+      "residual_probability": 4,
+      "residual_impact": 3,
+      "residual_score": 12,
+      "days_open": 290
+    },
+    {
+      "risk_id": "R002",
+      "title": "Single-source component supplier capacity constraint",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "date_raised": "2025-10-23",
+      "inherent_probability": 4,
+      "inherent_impact": 5,
+      "inherent_score": 20,
+      "residual_probability": 2,
+      "residual_impact": 3,
+      "residual_score": 6,
+      "days_open": 250
+    },
+    {
+      "risk_id": "R003",
+      "title": "Sub-contractor mobilisation delay on site enabling works",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "date_raised": "2026-04-05",
+      "inherent_probability": 1,
+      "inherent_impact": 2,
+      "inherent_score": 2,
+      "residual_probability": 2,
+      "residual_impact": 3,
+      "residual_score": 6,
+      "days_open": 86
+    },
+    {
+      "risk_id": "R004",
+      "title": "Long-lead electrical switchgear delivery risk",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "date_raised": "2026-05-17",
+      "inherent_probability": 4,
+      "inherent_impact": 4,
+      "inherent_score": 16,
+      "residual_probability": 5,
+      "residual_impact": 5,
+      "residual_score": 25,
+      "days_open": 44
+    },
+    {
+      "risk_id": "R006",
+      "title": "Logistics and customs delay for imported components",
+      "category": "Supplier & Delivery",
+      "owner": "Supply Chain Lead",
+      "date_raised": "2025-11-21",
+      "inherent_probability": 4,
+      "inherent_impact": 3,
+      "inherent_score": 12,
+      "residual_probability": 1,
+      "residual_impact": 1,
+      "residual_score": 1,
+      "days_open": 221
+    },
+    {
+      "risk_id": "R007",
+      "title": "Steel and raw material price inflation",
+      "category": "Cost & Commercial",
+      "owner": "Commercial Manager",
+      "date_raised": "2025-12-20",
+      "inherent_probability": 5,
+      "inherent_impact": 3,
+      "inherent_score": 15,
+      "residual_probability": 2,
+      "residual_impact": 1,
+      "residual_score": 2,
+      "days_open": 192
+    },
+    {
+      "risk_id": "R008",
+      "title": "Foreign exchange exposure on imported plant",
+      "category": "Cost & Commercial",
+      "owner": "Commercial Manager",
+      "date_raised": "2026-03-14",
+      "inherent_probability": 2,
+      "inherent_impact": 5,
+      "inherent_score": 10,
+      "residual_probability": 2,
+      "residual_impact": 5,
+      "residual_score": 10,
+      "days_open": 108
+    },
+    {
+      "risk_id": "R009",
+      "title": "Contract variation cost growth on civils package",
+      "category": "Cost & Commercial",
+      "owner": "Cost Manager",
+      "date_raised": "2025-09-23",
+      "inherent_probability": 4,
+      "inherent_impact": 4,
+      "inherent_score": 16,
+      "residual_probability": 3,
+      "residual_impact": 2,
+      "residual_score": 6,
+      "days_open": 280
+    },
+    {
+      "risk_id": "R010",
+      "title": "Underestimated waste and disposal cost allowance",
+      "category": "Cost & Commercial",
+      "owner": "Cost Manager",
+      "date_raised": "2025-10-11",
+      "inherent_probability": 3,
+      "inherent_impact": 5,
+      "inherent_score": 15,
+      "residual_probability": 1,
+      "residual_impact": 2,
+      "residual_score": 2,
+      "days_open": 262
+    },
+    {
+      "risk_id": "R011",
+      "title": "Insurance premium increase at policy renewal",
+      "category": "Cost & Commercial",
+      "owner": "Cost Manager",
+      "date_raised": "2025-12-08",
+      "inherent_probability": 4,
+      "inherent_impact": 1,
+      "inherent_score": 4,
+      "residual_probability": 5,
+      "residual_impact": 4,
+      "residual_score": 20,
+      "days_open": 204
+    },
+    {
+      "risk_id": "R012",
+      "title": "Commercial dispute with tier-1 contractor over scope",
+      "category": "Cost & Commercial",
+      "owner": "Commercial Manager",
+      "date_raised": "2026-01-27",
+      "inherent_probability": 5,
+      "inherent_impact": 5,
+      "inherent_score": 25,
+      "residual_probability": 3,
+      "residual_impact": 4,
+      "residual_score": 12,
+      "days_open": 154
+    },
+    {
+      "risk_id": "R013",
+      "title": "Late-stage design change to foundation specification",
+      "category": "Engineering & Design Change",
+      "owner": "Design Manager",
+      "date_raised": "2026-03-14",
+      "inherent_probability": 3,
+      "inherent_impact": 4,
+      "inherent_score": 12,
+      "residual_probability": 5,
+      "residual_impact": 5,
+      "residual_score": 25,
+      "days_open": 108
+    },
+    {
+      "risk_id": "R014",
+      "title": "Interface misalignment between mechanical and electrical packages",
+      "category": "Engineering & Design Change",
+      "owner": "Principal Engineer",
+      "date_raised": "2025-11-23",
+      "inherent_probability": 3,
+      "inherent_impact": 3,
+      "inherent_score": 9,
+      "residual_probability": 3,
+      "residual_impact": 3,
+      "residual_score": 9,
+      "days_open": 219
+    },
+    {
+      "risk_id": "R015",
+      "title": "Design change driven by updated ground-condition survey",
+      "category": "Engineering & Design Change",
+      "owner": "Principal Engineer",
+      "date_raised": "2025-10-07",
+      "inherent_probability": 4,
+      "inherent_impact": 2,
+      "inherent_score": 8,
+      "residual_probability": 4,
+      "residual_impact": 2,
+      "residual_score": 8,
+      "days_open": 266
+    },
+    {
+      "risk_id": "R017",
+      "title": "Configuration control gap between design revisions",
+      "category": "Engineering & Design Change",
+      "owner": "Design Manager",
+      "date_raised": "2026-02-14",
+      "inherent_probability": 4,
+      "inherent_impact": 4,
+      "inherent_score": 16,
+      "residual_probability": 4,
+      "residual_impact": 4,
+      "residual_score": 16,
+      "days_open": 136
+    },
+    {
+      "risk_id": "R018",
+      "title": "Critical path slippage on site enabling works",
+      "category": "Schedule & Programme",
+      "owner": "Programme Scheduler",
+      "date_raised": "2025-09-17",
+      "inherent_probability": 4,
+      "inherent_impact": 3,
+      "inherent_score": 12,
+      "residual_probability": 3,
+      "residual_impact": 1,
+      "residual_score": 3,
+      "days_open": 286
+    },
+    {
+      "risk_id": "R019",
+      "title": "Concurrent workstream congestion on site",
+      "category": "Schedule & Programme",
+      "owner": "Programme Scheduler",
+      "date_raised": "2025-12-18",
+      "inherent_probability": 5,
+      "inherent_impact": 4,
+      "inherent_score": 20,
+      "residual_probability": 2,
+      "residual_impact": 3,
+      "residual_score": 6,
+      "days_open": 194
+    },
+    {
+      "risk_id": "R020",
+      "title": "Weather-related delay to outdoor construction activities",
+      "category": "Schedule & Programme",
+      "owner": "Project Controls Manager",
+      "date_raised": "2025-12-18",
+      "inherent_probability": 4,
+      "inherent_impact": 3,
+      "inherent_score": 12,
+      "residual_probability": 4,
+      "residual_impact": 3,
+      "residual_score": 12,
+      "days_open": 194
+    },
+    {
+      "risk_id": "R021",
+      "title": "Delayed handover from design to construction phase",
+      "category": "Schedule & Programme",
+      "owner": "Project Controls Manager",
+      "date_raised": "2025-11-13",
+      "inherent_probability": 3,
+      "inherent_impact": 3,
+      "inherent_score": 9,
+      "residual_probability": 1,
+      "residual_impact": 2,
+      "residual_score": 2,
+      "days_open": 229
+    },
+    {
+      "risk_id": "R022",
+      "title": "Programme float erosion across multiple packages",
+      "category": "Schedule & Programme",
+      "owner": "Project Controls Manager",
+      "date_raised": "2026-04-08",
+      "inherent_probability": 5,
+      "inherent_impact": 3,
+      "inherent_score": 15,
+      "residual_probability": 3,
+      "residual_impact": 4,
+      "residual_score": 12,
+      "days_open": 83
+    },
+    {
+      "risk_id": "R023",
+      "title": "Delay in planning consent determination",
+      "category": "Regulatory & Consents",
+      "owner": "Regulatory & Consents Manager",
+      "date_raised": "2025-11-10",
+      "inherent_probability": 3,
+      "inherent_impact": 2,
+      "inherent_score": 6,
+      "residual_probability": 5,
+      "residual_impact": 4,
+      "residual_score": 20,
+      "days_open": 232
+    },
+    {
+      "risk_id": "R024",
+      "title": "Environmental permit variation required",
+      "category": "Regulatory & Consents",
+      "owner": "Regulatory & Consents Manager",
+      "date_raised": "2025-10-27",
+      "inherent_probability": 2,
+      "inherent_impact": 2,
+      "inherent_score": 4,
+      "residual_probability": 2,
+      "residual_impact": 2,
+      "residual_score": 4,
+      "days_open": 246
+    },
+    {
+      "risk_id": "R025",
+      "title": "Regulator information request extending review period",
+      "category": "Regulatory & Consents",
+      "owner": "Regulatory & Consents Manager",
+      "date_raised": "2025-10-03",
+      "inherent_probability": 3,
+      "inherent_impact": 4,
+      "inherent_score": 12,
+      "residual_probability": 3,
+      "residual_impact": 4,
+      "residual_score": 12,
+      "days_open": 270
+    },
+    {
+      "risk_id": "R026",
+      "title": "Change in regulatory guidance affecting design basis",
+      "category": "Regulatory & Consents",
+      "owner": "Regulatory & Consents Manager",
+      "date_raised": "2026-05-29",
+      "inherent_probability": 3,
+      "inherent_impact": 4,
+      "inherent_score": 12,
+      "residual_probability": 2,
+      "residual_impact": 4,
+      "residual_score": 8,
+      "days_open": 32
+    },
+    {
+      "risk_id": "R027",
+      "title": "Statutory consultee objection requiring design amendment",
+      "category": "Regulatory & Consents",
+      "owner": "Regulatory & Consents Manager",
+      "date_raised": "2025-10-29",
+      "inherent_probability": 4,
+      "inherent_impact": 4,
+      "inherent_score": 16,
+      "residual_probability": 1,
+      "residual_impact": 4,
+      "residual_score": 4,
+      "days_open": 244
+    },
+    {
+      "risk_id": "R028",
+      "title": "Shortage of specialist commissioning engineers",
+      "category": "Resourcing & Capability",
+      "owner": "PMO Lead",
+      "date_raised": "2026-02-22",
+      "inherent_probability": 2,
+      "inherent_impact": 3,
+      "inherent_score": 6,
+      "residual_probability": 1,
+      "residual_impact": 1,
+      "residual_score": 1,
+      "days_open": 128
+    },
+    {
+      "risk_id": "R029",
+      "title": "Key-person dependency in project controls team",
+      "category": "Resourcing & Capability",
+      "owner": "PMO Lead",
+      "date_raised": "2025-09-02",
+      "inherent_probability": 5,
+      "inherent_impact": 5,
+      "inherent_score": 25,
+      "residual_probability": 3,
+      "residual_impact": 3,
+      "residual_score": 9,
+      "days_open": 301
+    },
+    {
+      "risk_id": "R030",
+      "title": "Contractor resourcing shortfall during peak construction",
+      "category": "Resourcing & Capability",
+      "owner": "PMO Lead",
+      "date_raised": "2026-05-15",
+      "inherent_probability": 4,
+      "inherent_impact": 4,
+      "inherent_score": 16,
+      "residual_probability": 2,
+      "residual_impact": 4,
+      "residual_score": 8,
+      "days_open": 46
+    },
+    {
+      "risk_id": "R031",
+      "title": "Skills gap in an emerging technology area",
+      "category": "Resourcing & Capability",
+      "owner": "Resourcing Manager",
+      "date_raised": "2026-01-31",
+      "inherent_probability": 4,
+      "inherent_impact": 4,
+      "inherent_score": 16,
+      "residual_probability": 4,
+      "residual_impact": 4,
+      "residual_score": 16,
+      "days_open": 150
+    },
+    {
+      "risk_id": "R032",
+      "title": "Staff turnover in a stakeholder-facing PMO role",
+      "category": "Resourcing & Capability",
+      "owner": "Resourcing Manager",
+      "date_raised": "2025-11-18",
+      "inherent_probability": 3,
+      "inherent_impact": 2,
+      "inherent_score": 6,
+      "residual_probability": 3,
+      "residual_impact": 2,
+      "residual_score": 6,
+      "days_open": 224
+    },
+    {
+      "risk_id": "R033",
+      "title": "Elevated risk during high-value lifting operations",
+      "category": "Health & Safety",
+      "owner": "HSE Manager",
+      "date_raised": "2026-02-13",
+      "inherent_probability": 3,
+      "inherent_impact": 2,
+      "inherent_score": 6,
+      "residual_probability": 1,
+      "residual_impact": 2,
+      "residual_score": 2,
+      "days_open": 137
+    },
+    {
+      "risk_id": "R034",
+      "title": "Confined-space entry procedure non-compliance",
+      "category": "Health & Safety",
+      "owner": "Construction Manager",
+      "date_raised": "2026-02-05",
+      "inherent_probability": 2,
+      "inherent_impact": 3,
+      "inherent_score": 6,
+      "residual_probability": 5,
+      "residual_impact": 2,
+      "residual_score": 10,
+      "days_open": 145
+    },
+    {
+      "risk_id": "R036",
+      "title": "Working-at-height control gap on scaffold access",
+      "category": "Health & Safety",
+      "owner": "HSE Manager",
+      "date_raised": "2025-11-05",
+      "inherent_probability": 4,
+      "inherent_impact": 5,
+      "inherent_score": 20,
+      "residual_probability": 5,
+      "residual_impact": 5,
+      "residual_score": 25,
+      "days_open": 237
+    },
+    {
+      "risk_id": "R037",
+      "title": "Lone-working risk during remote inspection activities",
+      "category": "Health & Safety",
+      "owner": "HSE Manager",
+      "date_raised": "2026-01-14",
+      "inherent_probability": 3,
+      "inherent_impact": 4,
+      "inherent_score": 12,
+      "residual_probability": 3,
+      "residual_impact": 4,
+      "residual_score": 12,
+      "days_open": 167
+    }
+  ],
+  "months": [
+    "2026-01",
+    "2026-02",
+    "2026-03",
+    "2026-04",
+    "2026-05",
+    "2026-06"
+  ]
+}

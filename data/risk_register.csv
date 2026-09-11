@@ -1,0 +1,38 @@
+risk_id,category,title,owner,date_raised,inherent_probability,inherent_impact
+R001,Supplier & Delivery,Key steel fabrication supplier delivery slippage,Supply Chain Lead,2025-09-13,4,3
+R002,Supplier & Delivery,Single-source component supplier capacity constraint,Supply Chain Lead,2025-10-23,4,5
+R003,Supplier & Delivery,Sub-contractor mobilisation delay on site enabling works,Supply Chain Lead,2026-04-05,1,2
+R004,Supplier & Delivery,Long-lead electrical switchgear delivery risk,Supply Chain Lead,2026-05-17,4,4
+R005,Supplier & Delivery,Supplier quality non-conformance on structural modules,Procurement Manager,2025-12-22,3,3
+R006,Supplier & Delivery,Logistics and customs delay for imported components,Supply Chain Lead,2025-11-21,4,3
+R007,Cost & Commercial,Steel and raw material price inflation,Commercial Manager,2025-12-20,5,3
+R008,Cost & Commercial,Foreign exchange exposure on imported plant,Commercial Manager,2026-03-14,2,5
+R009,Cost & Commercial,Contract variation cost growth on civils package,Cost Manager,2025-09-23,4,4
+R010,Cost & Commercial,Underestimated waste and disposal cost allowance,Cost Manager,2025-10-11,3,5
+R011,Cost & Commercial,Insurance premium increase at policy renewal,Cost Manager,2025-12-08,4,1
+R012,Cost & Commercial,Commercial dispute with tier-1 contractor over scope,Commercial Manager,2026-01-27,5,5
+R013,Engineering & Design Change,Late-stage design change to foundation specification,Design Manager,2026-03-14,3,4
+R014,Engineering & Design Change,Interface misalignment between mechanical and electrical packages,Principal Engineer,2025-11-23,3,3
+R015,Engineering & Design Change,Design change driven by updated ground-condition survey,Principal Engineer,2025-10-07,4,2
+R016,Engineering & Design Change,Unresolved technical query blocking construction drawings,Design Manager,2025-11-23,3,3
+R017,Engineering & Design Change,Configuration control gap between design revisions,Design Manager,2026-02-14,4,4
+R018,Schedule & Programme,Critical path slippage on site enabling works,Programme Scheduler,2025-09-17,4,3
+R019,Schedule & Programme,Concurrent workstream congestion on site,Programme Scheduler,2025-12-18,5,4
+R020,Schedule & Programme,Weather-related delay to outdoor construction activities,Project Controls Manager,2025-12-18,4,3
+R021,Schedule & Programme,Delayed handover from design to construction phase,Project Controls Manager,2025-11-13,3,3
+R022,Schedule & Programme,Programme float erosion across multiple packages,Project Controls Manager,2026-04-08,5,3
+R023,Regulatory & Consents,Delay in planning consent determination,Regulatory & Consents Manager,2025-11-10,3,2
+R024,Regulatory & Consents,Environmental permit variation required,Regulatory & Consents Manager,2025-10-27,2,2
+R025,Regulatory & Consents,Regulator information request extending review period,Regulatory & Consents Manager,2025-10-03,3,4
+R026,Regulatory & Consents,Change in regulatory guidance affecting design basis,Regulatory & Consents Manager,2026-05-29,3,4
+R027,Regulatory & Consents,Statutory consultee objection requiring design amendment,Regulatory & Consents Manager,2025-10-29,4,4
+R028,Resourcing & Capability,Shortage of specialist commissioning engineers,PMO Lead,2026-02-22,2,3
+R029,Resourcing & Capability,Key-person dependency in project controls team,PMO Lead,2025-09-02,5,5
+R030,Resourcing & Capability,Contractor resourcing shortfall during peak construction,PMO Lead,2026-05-15,4,4
+R031,Resourcing & Capability,Skills gap in an emerging technology area,Resourcing Manager,2026-01-31,4,4
+R032,Resourcing & Capability,Staff turnover in a stakeholder-facing PMO role,Resourcing Manager,2025-11-18,3,2
+R033,Health & Safety,Elevated risk during high-value lifting operations,HSE Manager,2026-02-13,3,2
+R034,Health & Safety,Confined-space entry procedure non-compliance,Construction Manager,2026-02-05,2,3
+R035,Health & Safety,Site traffic management risk during peak deliveries,HSE Manager,2025-10-14,4,4
+R036,Health & Safety,Working-at-height control gap on scaffold access,HSE Manager,2025-11-05,4,5
+R037,Health & Safety,Lone-working risk during remote inspection activities,HSE Manager,2026-01-14,3,4
