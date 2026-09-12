@@ -6,9 +6,9 @@ most PMO and risk-officer roles actually run on: probability x impact
 scoring, inherent vs residual risk, ownership, mitigation actions, ageing,
 month-on-month movement and emerging-risk analysis.
 
-**[Open the dashboard](dashboard.html)** (download/clone the repo and open
-the file directly - it's a single self-contained HTML page with no server
-or external libraries required).
+**[▶ Open the live interactive dashboard](https://yenlikgaisina.github.io/pmo-risk-register-dashboard/)**
+
+Explore inherent vs residual risk, category filtering, risk ageing, month-on-month movement, emerging risks and overdue mitigation actions directly in the browser.
 
 ## Why I built this
 
