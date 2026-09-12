@@ -10,6 +10,13 @@ month-on-month movement and emerging-risk analysis.
 
 Explore inherent vs residual risk, category filtering, risk ageing, month-on-month movement, emerging risks and overdue mitigation actions directly in the browser.
 
+## Key outcomes
+
+- Built a repeatable analysis/reporting workflow: synthetic data generation, analysis scripts and a static HTML dashboard, each runnable end to end
+- Added explicit data-quality checks and validation now covered by an automated pytest suite (unique risk IDs, valid probability/impact ranges, score = probability x impact, referential integrity between risks and mitigation actions, valid dates and status values)
+- Produced stakeholder-facing outputs (an interactive dashboard and static charts) rather than analysis only
+- Documented limitations, assumptions and production considerations, since the underlying register is synthetic rather than a real organisation's data
+
 ## Why I built this
 
 My other portfolio projects (particularly the
